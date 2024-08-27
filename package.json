@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "ethereumjs-util": "^5.2.0",
+    "ganache-cli": "^6.1.0",
+    "global": "^4.3.2",
+    "truffle": "^4.1.11",
+    "web3": "^1.0.0-beta.34"
+  }
+}
